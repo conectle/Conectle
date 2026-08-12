@@ -21,7 +21,7 @@ A CONECTLE desenvolve sistemas, automações e inteligência artificial aplicada
 
 ## Segurança e propriedade intelectual
 
-As plataformas, automações e integrações desenvolvidas pela CONECTLE são mantidas em repositórios privados. Este perfil é uma vitrine institucional da empresa e de suas áreas de atuação.
+A tecnologia proprietária, as configurações e os códigos das soluções CONECTLE não são disponibilizados publicamente. Este perfil é uma vitrine institucional da empresa e de suas áreas de atuação.
 
 ## Contato
 
